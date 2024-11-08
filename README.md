@@ -1,5 +1,3 @@
-# Broken-Auth
-
 import requests
 
 def test_session_fixation(url):
